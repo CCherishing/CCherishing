@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CC</h1>
+<h1 align="center">CC: Zero to Cracked(?)</h1>
 <h3 align="center">A Struggling Software(E) Student at a small trade school in Cambridge. I am just starting my journey of learning and I plan to document it here.</h3>
 
 - 🌱 I’m currently relearning algorithms **with Princeton's Java Algo Course**
